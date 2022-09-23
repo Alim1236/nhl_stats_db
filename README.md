@@ -50,4 +50,6 @@ The most useful part of this database is its skaters’ stats and goalies’ sta
 
 The database can even be used to compare number of wins a specific team has recorded since 2012. By summing up all the wins of goalies that have played for, we can find the team’s entire total. This is very useful for comparing the overall success of teams over the last ten years.  
 
-We can also find out other interesting facts, like how many games were played in August, which birth month is the most popular, and the distribution of players who shoot right or shoot left.
+We can also find out other interesting facts, such as
+* How many games were played in August
+* Which birth month is the most popular, and the distribution of players who shoot right or shoot left.
